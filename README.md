@@ -4,7 +4,7 @@
   ![MIT license](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  It's a project that uses Objected Oriented Programming (OOP) to create classes and subclasses of objects with inherited properties and methods. Specifically a class for employees and subclasses for Managers, Engineers, and Interns. Using node and npm Inquirer, the command line app asks the user for the employee's role and some key information. It then compiles that information and creates an HTML document with "cards" for each member of the team. There is no limit to the number of team members, but there must be one manager. **[CLICK HERE](https://drive.google.com/file/d/1zaeMvt-l2zsLtv9DiKFUjHZ3fIYZCazX/view)** for a walkthrough of the app.
+  It's a project that uses Objected Oriented Programming (OOP) to create classes and subclasses of objects with inherited properties and methods. Specifically a class for employees and subclasses for Managers, Engineers, and Interns. Using node and npm Inquirer, the command line app asks the user for the employee's role and some key information. It then compiles that information and creates an HTML document with "cards" for each member of the team. There is no limit to the number of team members, but there must be one manager. **[CLICK HERE](https://drive.google.com/file/d/1zaeMvt-l2zsLtv9DiKFUjHZ3fIYZCazX/view?usp=sharing)** for a walkthrough of the app.
 
   
   ## Table of Contents 
